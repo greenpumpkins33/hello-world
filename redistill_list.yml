@@ -1,0 +1,15 @@
+---
+dataset: last # should be first or last
+skip_plots: false
+temperatures:
+  - cold
+  - med
+  - hot
+#  - none
+sns:  
+  - N018G58210
+
+
+
+
+
